@@ -1,0 +1,6 @@
+define('DB_NAME', 'wp1'); 
+define('DB_USER', 'uzaf1');
+define('DB_PASSWORD', '1Fazu*');
+define('DB_HOST', 'localhost');
+define('DB_CHARSET', 'utf8');
+define('DB_COLLATE', '');
